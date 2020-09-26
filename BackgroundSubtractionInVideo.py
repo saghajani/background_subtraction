@@ -4,7 +4,7 @@ import cv2
 # Capture a video by webcam
 cap = cv2.VideoCapture(0)
 # Or Capture from a saved file
-# cap = cv2.VideoCapture('output2.mp4')
+# cap = cv2.VideoCapture('input.mp4')
 # Create BackgroundSubtractor object
 fgbg = cv2.createBackgroundSubtractorMOG2()
 
