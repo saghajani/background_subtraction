@@ -1,8 +1,8 @@
 # Background-Subtraction
 Remove static background of a video
 
-# Prerequisites
+### Prerequisites
 Python 3.7
-## Python packages
+#### Python packages
 opencv, numpy
 
